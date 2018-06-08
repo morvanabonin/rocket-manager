@@ -1,0 +1,17 @@
+{
+  "port": 3000,
+  "mail": {
+    "from": "Morvana Bonin <morvana.bonin@kinghost.com.br>",
+    "to": "morvana.bonin@kinghost.com.br"
+  },
+  "questions": {
+    "default": [
+      "O que você fez ontem?",
+      "O que você está fazendo hoje?",
+      "Você tem algum impedimento?"
+    ],
+    "CHANNEL-NAME": [
+      "daily"
+    ]
+  }
+}
